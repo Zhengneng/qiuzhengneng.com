@@ -75,7 +75,7 @@ http://www.cnblogs.com/fengzheng/p/3619406.html
   * Registered hosts (AWS IP address)
 
 
-##It Works!!! [Welcome to qiuzhengneng.com](www.qiuzhengneng.com)
+##It Works!!! [Welcome to qiuzhengneng.com](http://www.qiuzhengneng.com)
 
 ###To be Continued...
   
