@@ -33,6 +33,8 @@ http://www.cnblogs.com/fengzheng/p/3619406.html
   make  
   sudo make install  
   
+  ** for pcre issue, this may help (http://unix.stackexchange.com/questions/66692/apache-installation-configuration-cant-find-pcre-pcre-config-for-libpcre-not)
+  
   * Install Apache
   
   tar –zxvf httpd-2.4.7.tar.gz #解压 我安装的为2.4.7版本  
