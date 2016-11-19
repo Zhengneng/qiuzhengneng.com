@@ -7,6 +7,8 @@
 ### Appache Setup in Linux
 http://www.cnblogs.com/fengzheng/p/3619406.html
 
+  * sudo apt-get build-dep xserver-xorg-video-intel (http://askubuntu.com/questions/103348/error-when-installing-makefile-make-no-targets-specified-and-no-makefile)
+
   * Install arp
   
   tar -zxf apr-1.5.0.tar.gz #解压压缩包 压缩包名称根据版本号决定  
